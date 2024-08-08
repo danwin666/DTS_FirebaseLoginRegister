@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139761372546",
+    "project_id": "dtsjmp-e6efd",
+    "storage_bucket": "dtsjmp-e6efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139761372546:android:9ec84b905ded1fae72539b",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMlR6ATddDUScdmIsiYgqBqvG9QfQqMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
